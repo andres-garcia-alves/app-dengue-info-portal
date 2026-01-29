@@ -1,7 +1,7 @@
 # Dengue Website
 
 A responsive website with dengue prevention info, cases hot-map, self-test, hospital locator and more...  
-[LIVE DEMO HERE](https://andres-garcia-alves.github.io/dengue-website/).  
+[LIVE DEMO HERE](https://andres-garcia-alves.github.io/app-dengue-info-portal/).  
 
 Built in vanilla javascript, using modern technologies like: google-maps, web-components, media-queries, flexbox, css-grid, css-custom-properties, etc.
 
